@@ -1,4 +1,4 @@
-# vue-rascia
+# vue-employee
 
 ## Project setup
 ```
